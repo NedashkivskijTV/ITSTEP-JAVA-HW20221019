@@ -1,0 +1,2 @@
+# ITSTEP-JAVA-HW20221019
+homework from 19/10/2022 - AOP
